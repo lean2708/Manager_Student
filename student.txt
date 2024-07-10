@@ -1,0 +1,11 @@
+ID : 1
+Name : amn
+Birthday : 21/03/2005
+Address : thanh hoa
+Height : 200.0
+Weight : 55.0
+Student Code : b22dcpt003
+University : ptit
+Start Year : 2022
+GPA: 8.0
+Academic Ability: Giỏi
